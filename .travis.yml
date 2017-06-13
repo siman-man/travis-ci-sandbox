@@ -4,4 +4,4 @@ rvm:
   - 2.4.0
 before_install: gem install bundler -v 1.15.1
 notifications:
-  webhooks: https://travis-webhook.herokuapp.com
+  webhooks: https://daily-pr-bot.herokuapp.com/
