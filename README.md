@@ -2,3 +2,5 @@
 travis-ci-sandbox
 
 # update README.md
+
+# auto merge check
