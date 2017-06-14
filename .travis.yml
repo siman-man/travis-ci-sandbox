@@ -4,4 +4,5 @@ rvm:
   - 2.4.0
 before_install: gem install bundler -v 1.15.1
 notifications:
-  webhooks: https://daily-pr-bot.herokuapp.com/
+  webhooks:
+    secure: Zvb0rZH2XG6ZBzrJ4L2NwFB/+2ICgjoCMf9YZ7aHu6qJ02eCy8ic+BgSdS+FnZACtZsFf3c9ZRwoJ/+s/ixlthE7yB9WqyzyBA5YEIjkjYCeJQw3wIFtCwJqZwPNwyL17r0sptXac5+1n/W5GuRi1sClfia0qK1WqCpghVTUKDhcry0IaskdMNVe04aNAKbAhJhfa+RfB3Ejr3ftfOaST8ljX6Pou+ssu4sOxuM8se/dMV2BCqNmif+zOMFvTHrD3vL/D9Br7yTJ+mixytXB5B2qtxUMEWIMjts+iRHSXO3pyBkDJsY+t9dpNWcMPkGqSME9LwQ0frbf/EjHwuIMZCrwLXDPmg7cdV6ub1w5wf3L7ZFfkD5aDuIv0guzBjKrkA+ca7N9116Kf8ygarbnQG8U1jrp89BFK6bQe2V4GGBOoohdnC21ItjOXOaoRkYZuivQgxS2WhH6YAuF+R+vmJkhwTnwscVHr44aQBhj45VNJbBj1ZEUhH6mudH+HrxEZCsKV3i4oigkMKtgCyKfuFT6s3vIIeOrHhaAtIT2Bh0wh/GPECP28c+9x/ehIp9PmVf6VVIh3T5kgwcul9imvNyCsUL8c/bytFYZvP0J/VBXoJIi3FYOCbcg2tYDvcTPTgcFY6ei4NvdfjgUQdxkEiaQnuejt2uH9yNdYd5tX0E=
