@@ -12,3 +12,4 @@ update
 
 # new feature
 * add-feature
+* add-featureB
