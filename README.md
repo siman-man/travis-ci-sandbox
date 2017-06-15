@@ -8,6 +8,7 @@ puts "hello world"
 ```
 
 # auto merge check
+update
 
 # new feature
 * add-feature
