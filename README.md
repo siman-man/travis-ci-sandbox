@@ -6,3 +6,4 @@ travis-ci-sandbox
 # auto merge check
 
 # new feature
+* add-feature
