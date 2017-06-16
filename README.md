@@ -5,6 +5,7 @@ travis-ci-sandbox
 
 ```ruby
 puts "hello world"
+1 + 1
 ```
 
 # auto merge check
